@@ -1,5 +1,3 @@
-from dotenv import load_dotenv
-import os
 import streamlit as st
 import pandas as pd
 from pandasai import PandasAI
